@@ -11,4 +11,4 @@ feature: - For new functionality or features you’re adding to your project
 fix: - For bug fixes or corrections
 docs: - For documentation changes
 style: - For formatting, styling, or code style changes
-refactor: - For code restructuring without changing functionality -->
+refactor: - For code restructuring without changing functionality d -->
